@@ -9,3 +9,4 @@ function checkPalindrome(word) {
     }
 }
 checkPalindrome('anna, anna')
+checkPalindrome('anna')
